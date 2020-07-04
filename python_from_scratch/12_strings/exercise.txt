@@ -1,0 +1,211 @@
+####################
+# Fictitious Lotto #
+####################
+# week 1
+numbers: 32, 36, 35, 38, 31, 31
+# week 2
+numbers: 27, 0, 7, 19, 20, 22
+# week 3
+numbers: 29, 19, 39, 17, 7, 33
+# week 4
+numbers: 10, 30, 19, 11, 23, 24
+# week 5
+numbers: 20, 10, 9, 5, 11, 32
+# week 6
+numbers: 30, 28, 25, 12, 7, 22
+# week 7
+numbers: 40, 30, 14, 34, 19, 33
+# week 8
+numbers: 15, 31, 38, 40, 9, 1
+# week 9
+numbers: 39, 36, 10, 31, 5, 3
+# week 10
+numbers: 24, 22, 40, 16, 18, 29
+# week 11
+numbers: 33, 29, 12, 31, 15, 18
+# week 12
+numbers: 30, 32, 6, 40, 6, 20
+# week 13
+numbers: 18, 0, 25, 27, 4, 27
+# week 14
+numbers: 39, 25, 17, 40, 26, 18
+# week 15
+numbers: 33, 38, 25, 25, 39, 12
+# week 16
+numbers: 6, 25, 25, 31, 21, 24
+# week 17
+numbers: 38, 20, 25, 19, 8, 4
+# week 18
+numbers: 16, 37, 26, 27, 3, 14
+# week 19
+numbers: 26, 19, 10, 13, 11, 26
+# week 20
+numbers: 4, 24, 18, 10, 23, 6
+# week 21
+numbers: 24, 37, 31, 20, 30, 28
+# week 22
+numbers: 37, 3, 38, 37, 3, 19
+# week 23
+numbers: 22, 12, 24, 16, 37, 23
+# week 24
+numbers: 34, 26, 22, 13, 37, 28
+# week 25
+numbers: 25, 35, 17, 30, 21, 38
+# week 26
+numbers: 18, 28, 30, 16, 1, 28
+# week 27
+numbers: 35, 33, 0, 7, 18, 10
+# week 28
+numbers: 38, 25, 0, 37, 28, 14
+# week 29
+numbers: 33, 6, 29, 9, 1, 26
+# week 30
+numbers: 37, 6, 3, 24, 8, 19
+# week 31
+numbers: 16, 30, 21, 31, 40, 31
+# week 32
+numbers: 13, 12, 17, 18, 34, 2
+# week 33
+numbers: 28, 31, 14, 10, 4, 27
+# week 34
+numbers: 13, 28, 19, 12, 29, 20
+# week 35
+numbers: 6, 9, 22, 3, 11, 5
+# week 36
+numbers: 36, 7, 8, 35, 6, 7
+# week 37
+numbers: 27, 13, 7, 1, 14, 5
+# week 38
+numbers: 3, 3, 12, 17, 12, 15
+# week 39
+numbers: 7, 22, 35, 30, 31, 11
+# week 40
+numbers: 10, 22, 24, 20, 18, 26
+# week 41
+numbers: 38, 1, 14, 18, 10, 4
+# week 42
+numbers: 3, 7, 33, 27, 11, 17
+# week 43
+numbers: 18, 30, 10, 17, 33, 34
+# week 44
+numbers: 10, 33, 32, 13, 18, 8
+# week 45
+numbers: 36, 27, 21, 23, 20, 38
+# week 46
+numbers: 36, 2, 28, 18, 24, 10
+# week 47
+numbers: 33, 35, 39, 32, 36, 23
+# week 48
+numbers: 38, 33, 19, 23, 11, 20
+# week 49
+numbers: 40, 33, 2, 39, 8, 39
+# week 50
+numbers: 6, 21, 22, 31, 12, 2
+# week 51
+numbers: 26, 29, 37, 36, 0, 6
+# week 52
+numbers: 29, 32, 25, 1, 21, 8
+# week 53
+numbers: 7, 26, 25, 2, 30, 21
+# week 54
+numbers: 34, 23, 1, 25, 39, 7
+# week 55
+numbers: 5, 39, 21, 37, 17, 5
+# week 56
+numbers: 35, 26, 36, 0, 5, 20
+# week 57
+numbers: 5, 3, 9, 24, 13, 34
+# week 58
+numbers: 26, 10, 30, 22, 19, 38
+# week 59
+numbers: 9, 0, 35, 3, 5, 14
+# week 60
+numbers: 17, 5, 37, 40, 39, 32
+# week 61
+numbers: 35, 13, 11, 39, 26, 3
+# week 62
+numbers: 5, 8, 25, 6, 15, 15
+# week 63
+numbers: 37, 29, 10, 11, 20, 9
+# week 64
+numbers: 6, 8, 30, 13, 1, 25
+# week 65
+numbers: 0, 2, 20, 30, 16, 17
+# week 66
+numbers: 2, 21, 13, 26, 24, 35
+# week 67
+numbers: 6, 2, 5, 24, 8, 28
+# week 68
+numbers: 31, 32, 21, 38, 32, 25
+# week 69
+numbers: 17, 9, 32, 6, 1, 19
+# week 70
+numbers: 21, 32, 9, 31, 1, 3
+# week 71
+numbers: 1, 13, 27, 40, 40, 37
+# week 72
+numbers: 35, 21, 24, 14, 2, 23
+# week 73
+numbers: 3, 11, 20, 29, 31, 5
+# week 74
+numbers: 24, 30, 30, 4, 3, 2
+# week 75
+numbers: 10, 27, 11, 39, 36, 28
+# week 76
+numbers: 36, 2, 21, 27, 9, 40
+# week 77
+numbers: 10, 31, 20, 17, 27, 21
+# week 78
+numbers: 40, 39, 22, 11, 15, 15
+# week 79
+numbers: 18, 27, 8, 11, 17, 33
+# week 80
+numbers: 31, 19, 14, 33, 6, 14
+# week 81
+numbers: 35, 33, 4, 31, 31, 3
+# week 82
+numbers: 40, 10, 28, 34, 36, 10
+# week 83
+numbers: 23, 16, 12, 15, 11, 39
+# week 84
+numbers: 15, 21, 27, 13, 19, 4
+# week 85
+numbers: 21, 8, 28, 10, 32, 7
+# week 86
+numbers: 23, 8, 2, 38, 17, 40
+# week 87
+numbers: 20, 23, 13, 35, 13, 26
+# week 88
+numbers: 22, 40, 21, 20, 21, 29
+# week 89
+numbers: 2, 7, 14, 8, 37, 37
+# week 90
+numbers: 13, 38, 10, 24, 33, 35
+# week 91
+numbers: 3, 38, 18, 12, 7, 25
+# week 92
+numbers: 30, 18, 22, 32, 29, 32
+# week 93
+numbers: 20, 10, 27, 33, 39, 16
+# week 94
+numbers: 24, 22, 24, 10, 27, 27
+# week 95
+numbers: 9, 26, 31, 33, 28, 35
+# week 96
+numbers: 5, 23, 12, 35, 15, 28
+# week 97
+numbers: 9, 39, 12, 40, 0, 3
+# week 98
+numbers: 25, 9, 11, 4, 34, 35
+# week 99
+numbers: 1, 1, 33, 3, 16, 20
+# week 100
+numbers: 31, 18, 15, 38, 35, 30
+# week 101
+numbers: 0, 1, 40, 25, 25, 34
+# week 102
+numbers: 9, 32, 40, 40, 25, 2
+# week 103
+numbers: 28, 40, 4, 28, 35, 30
+# week 104
+numbers: 27, 37, 3, 23, 35, 34
