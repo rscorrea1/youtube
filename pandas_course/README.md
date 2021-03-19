@@ -22,5 +22,5 @@ Each of them has its own methods and attributes and if you want to get confortab
 
 ## Pandas Course: Notebooks
 
-1. [Series Data Structure] (lhttps://github.com/rscorrea1/youtube/blob/master/pandas_course/_notebooks/0_Pandas_Data_Structures.ipynb)
+1. [Series Data Structure] (https://github.com/rscorrea1/youtube/blob/master/pandas_course/_notebooks/0_Pandas_Data_Structures.ipynb)
 2. [DaraFrame Data Structure] coming soon...
