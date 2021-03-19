@@ -18,7 +18,7 @@ Each of them has its own methods and attributes and if you want to get confortab
 * Pandas Series: 1-Dimensional
 * Pandas DataFrame: 2-Dimensional
 
-<img src="../_images/pandas_data_structures.png" width="1000" height="400" align="center" /><br>
+<img src="_images/pandas_data_structures.png" width="1000" height="400" align="center" /><br>
 ___
 
 ## Pandas Course: Notebooks
