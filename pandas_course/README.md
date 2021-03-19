@@ -1,6 +1,6 @@
 # Pandas Course
 
-This course is aimed to give you enough knowledge to be confident with Pandas library.
+This course is aimed to give you enough knowledge to be confident to work with Pandas library.
 
 ## Useful Links
 
@@ -19,9 +19,8 @@ Each of them has its own methods and attributes and if you want to get confortab
 * Pandas DataFrame: 2-Dimensional
 
 <img src="_images/pandas_data_structures.png" width="1000" height="400" align="center" /><br>
-___
 
 ## Pandas Course: Notebooks
 
-1. [Series Data Structure]linke here)
+1. [Series Data Structure] (lhttps://github.com/rscorrea1/youtube/blob/master/pandas_course/_notebooks/0_Pandas_Data_Structures.ipynb)
 2. [DaraFrame Data Structure] coming soon...
