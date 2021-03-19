@@ -18,9 +18,9 @@ Each of them has its own methods and attributes and if you want to get confortab
 * Pandas Series: 1-Dimensional
 * Pandas DataFrame: 2-Dimensional
 
-<img src="_images/pandas_data_structures.png" width="1000" height="400" align="center" /><br>
+<img src="_images/pandas_data_structures.png" width="1200" height="500" align="center" /><br>
 
 ## Pandas Course: Notebooks
 
-1. [Series Data Structure](https://github.com/rscorrea1/youtube/blob/master/pandas_course/_notebooks/0_Pandas_Data_Structures.ipynb)
-2. [DaraFrame Data Structure] coming soon...
+1. [Pandas Data Structure: Series](https://github.com/rscorrea1/youtube/blob/master/pandas_course/_notebooks/0_Pandas_Data_Structures.ipynb)
+2. [Pandas Data Structure: DataFrame] coming soon...
