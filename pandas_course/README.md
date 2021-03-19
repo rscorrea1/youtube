@@ -23,6 +23,9 @@ Each of them has its own methods and attributes and if you want to get confortab
 
 <img src="_images/common_usage_pandas.png" />
 
+This is the reason why we will start learning `Series` or `DataFrame` data structure in the first two classes and then we will advance our study to more complex concepts.<br>
+I cannot stress enough that you need to learn how to delar with `Series` or `DataFrame`. It is not important that you memorize their methods and attributes but having in mind what each data structure is able to do.
+
 ## Pandas Course: Notebooks
 
 1. [Pandas Data Structure: Series](https://github.com/rscorrea1/youtube/blob/master/pandas_course/_notebooks/0_Pandas_Data_Structures.ipynb)
