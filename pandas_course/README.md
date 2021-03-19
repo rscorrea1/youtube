@@ -12,13 +12,16 @@ This course is aimed to give you enough knowledge to be confident to work with P
 ## Pandas Data Structures
 
 The most important data structures from Pandas library are `Series` and `DataFrame`.<br>
-It is a very good practice to ask yourself if the command you are about to type in Pandas will return a `Series` or `DataFrame` data structure.<br>
-Each of them has its own methods and attributes and if you want to get confortable with Pandas, you need to learn what each of this data structure is able to do.
 
 * Pandas Series: 1-Dimensional
 * Pandas DataFrame: 2-Dimensional
 
 <img src="_images/pandas_data_structures.png" />
+
+It is a very good practice to ask yourself if the command you are about to type in Pandas will return a `Series` or `DataFrame` data structure.<br>
+Each of them has its own methods and attributes and if you want to get confortable with Pandas, you need to learn what each of this data structure is able to do.
+
+<img src="_images/common_usage_pandas.png" />
 
 ## Pandas Course: Notebooks
 
