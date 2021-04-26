@@ -29,4 +29,4 @@ I cannot stress enough that you need to learn how to deal with `Series` and `Dat
 ## Pandas Course: Notebooks
 
 1. [Pandas Data Structure: Series](https://github.com/rscorrea1/youtube/blob/master/pandas_course/_notebooks/1_Pandas_Series.ipynb)
-2. [Pandas Data Structure: DataFrame] coming soon...
+2. [Pandas Data Structure: DataFrame Get Started](https://github.com/rscorrea1/youtube/blob/master/pandas_course/_notebooks/2_Pandas_DataFrame_Basics.ipynb)
